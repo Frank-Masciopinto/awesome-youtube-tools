@@ -61,6 +61,7 @@ Tools that use AI to summarize YouTube video content.
 | [TubeBuddy](https://www.tubebuddy.com) | YouTube channel management and SEO toolkit. | Freemium |
 | [vidIQ](https://vidiq.com) | YouTube audience development and analytics. | Freemium |
 | [Social Blade](https://socialblade.com) | YouTube channel statistics and analytics. | ✅ Free |
+| [Redexa Social](https://redexa.getcertsprint.com/) | Read-only YouTube analytics for Windows: one overview of your channels, public rival comparison and CSV export. | Freemium |
 
 ## Content Creation
 
